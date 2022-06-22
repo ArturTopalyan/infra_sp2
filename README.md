@@ -8,6 +8,7 @@ docker-compose к проекту [api_yamdb](https://github.com/ArturTopalyan/ap
 ### Запуск проекта в dev-режиме
 - перейти в директорию infra и создать файл .env и оформить по такому образцу
 ```
+DB_ENGINE=django.db.backends.postgresql # указываем, что работаем с postgresql
 DB_NAME=postgres
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
