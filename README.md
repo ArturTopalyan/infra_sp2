@@ -23,4 +23,4 @@ docker-compose exec web python manage.py createsuperuser
 ```
 - перезапустить docker-compose
 ### Автор
-* [Артур Топалян]((https://github.com/ArturTopalyan)
+* [Артур Топалян](https://github.com/ArturTopalyan)
