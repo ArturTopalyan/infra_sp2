@@ -2,9 +2,11 @@
 ### Описание
 docker-compose к проекту [api_yamdb](https://github.com/ArturTopalyan/api_yamdb)
 ### Технологии
+
 - Python 3.7
 - Django 2.2.19
 - Django REST Framework
+ 
 ### Запуск проекта в dev-режиме
 - перейти в директорию infra и создать файл .env и оформить по такому образцу
 ```
